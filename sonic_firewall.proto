@@ -1,23 +1,23 @@
 batch: {
-  id: "\x17\x14\x083\xea\xeb\x11\xef\xa7!\xe2;9\x99\xb58"
+  id: "\xc5\xc3@x\xf3\xbc\x11\xef\x85\x05\x85\tg\x04T\x0e"
   source: {
-    customer_id: "\x17\x14\x086\xea\xeb\x11\xef\xa7!\xe2;9\x99\xb58"
-    collector_id: "\x17\x14\x089\xea\xeb\x11\xef\xa7!\xe2;9\x99\xb58"
+    customer_id: "\xc5\xc3@{\xf3\xbc\x11\xef\x85\x05\x85\tg\x04T\x0e"
+    collector_id: "\xc5\xc3@~\xf3\xbc\x11\xef\x85\x05\x85\tg\x04T\x0e"
   }
   log_type: "SONIC_FIREWALL"
   entries: {
-    data: "<134>: id=SONIC_FIREWALL sn=SERIAL time=\"2024-02-14 12:05:33\" fw_ip=1.2.3.4 pri=6 c=1024 gcat=2 m=97 msg=\"Web site hit\" srcMac=00:1A:2B:3C:4D:5E src_ip=1.2.3.5 src_port=12345 srcZone=LAN dstMac=00:00:00:00:00:00 dst_ip=1.2.3.6 dst_port=443 dstZone=DMZ proto=tcp sent=3145 rcvd=4829 rule=\"16 (LAN->DMZ)\" app=49395 appName=\"Service PollyCom_AccessPort_9\" op=1 dstname=1.2.3.6 arg=/secars/secars.dll?h=12345 code=64 Category=\"Not Rated\" note=\"Policy: cfsZonePolicy0, Info:6148\" n=3447807"
+    data: "id=SONIC_FIREWALL sn=SERIAL time=\"2024-02-14 12:05:33\" fw_ip=1.2.3.4 pri=6 c=1024 gcat=2 m=97 msg=\"Web site hit\" srcMac=00:1A:2B:3C:4D:5E src_ip=1.2.3.5 src_port=12345 srcZone=LAN dstMac=00:00:00:00:00:00 dst_ip=1.2.3.6 dst_port=443 dstZone=DMZ proto=tcp sent=3145 rcvd=4829 rule=\"16 (LAN->DMZ)\" app=49395 appName=\"Service PollyCom_AccessPort_9\" op=1 dstname=1.2.3.6 arg=/secars/secars.dll?h=12345 code=64 Category=\"Not Rated\" note=\"Policy: cfsZonePolicy0, Info:6148\" n=3447807"
     collection_time: {
-      seconds: 1739548089
-      nanos: 717763579
+      seconds: 1740517756
+      nanos: 908349250
     }
   }
   start_time: {
-    seconds: 1739548089
-    nanos: 717763579
+    seconds: 1740517756
+    nanos: 908349250
   }
 }
 create_time: {
-  seconds: 1739548089
-  nanos: 717763579
+  seconds: 1740517756
+  nanos: 908349250
 }
